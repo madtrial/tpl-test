@@ -8,3 +8,4 @@ todos/
 vendor/
 .env.sample
 .deepsource.toml
+.tool-versions
