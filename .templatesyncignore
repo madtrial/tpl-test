@@ -1,0 +1,10 @@
+api/
+bin/
+cmd/
+db/
+deploy/
+scores/
+todos/
+vendor/
+.env.sample
+.deepsource.toml
