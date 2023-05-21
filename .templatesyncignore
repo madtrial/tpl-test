@@ -1,11 +1,5 @@
-api/
-bin/
-cmd/
-db/
-deploy/
-scores/
-todos/
-vendor/
-.env.sample
-.deepsource.toml
-.tool-versions
+*
+
+!README.md
+!Makefile
+!TEST.md
